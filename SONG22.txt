@@ -1,0 +1,9 @@
+
+отменить слиягние : 
+ git cherry-pick --abort
+
+git add (тк в ветке мейн не было нововго файла)
+
+git cherry-pick continue
+
+
